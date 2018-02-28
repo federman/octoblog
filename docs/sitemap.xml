@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/1/01/01/hello-r-markdown/</loc>
+  </url>
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/tags/plot/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/post/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/categories/r/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/tags/r-markdown/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/tags/regression/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://federman.github.io/octoblog/tags/</loc>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
